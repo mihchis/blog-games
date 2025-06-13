@@ -1,0 +1,277 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "PUBG: BATTLEGROUNDS",
+      "image": "/images/games/pubg.jpg",
+      "completionTime": "4.228,7 giờ",
+      "status": "completed",
+      "platform": "PC",
+      "achievements": "37",
+      "totalAchievements": "37",
+      "notes": "Battle Royale game phổ biến toàn cầu",
+      "rawgId": 10142
+    },
+    {
+      "id": 2,
+      "title": "Red Dead Redemption 2",
+      "image": "/images/games/rdr2.jpg",
+      "completionTime": "477,8 giờ",
+      "status": "completed",
+      "platform": "PC",
+      "achievements": "5",
+      "totalAchievements": "51",
+      "notes": "Western action-adventure game từ Rockstar Games",
+      "rawgId": 28
+    },
+    {
+      "id": 3,
+      "title": "God of War",
+      "image": "/images/games/god-of-war.jpg",
+      "completionTime": "83,2 giờ",
+      "status": "completed",
+      "platform": "PC",
+      "achievements": "27",
+      "totalAchievements": "37",
+      "notes": "Cuộc hành trình của Kratos và Atreus",
+      "rawgId": 58175
+    },
+    {
+      "id": 4,
+      "title": "Yakuza 0",
+      "image": "/images/games/yakuza-0.jpg",
+      "completionTime": "57,1 giờ",
+      "status": "completed",
+      "platform": "PC",
+      "achievements": "25",
+      "totalAchievements": "55",
+      "notes": "Prequel của series Yakuza",
+      "rawgId": 11156
+    },
+    {
+      "id": 5,
+      "title": "Black Myth: Wukong",
+      "image": "/images/games/black-myth-wukong.jpg",
+      "completionTime": "53,6 giờ",
+      "status": "completed",
+      "platform": "PC",
+      "achievements": "67",
+      "totalAchievements": "81",
+      "notes": "Game hành động dựa trên Tây Du Ký",
+      "rawgId": 452638
+    },
+    {
+      "id": 6,
+      "title": "DAVE THE DIVER",
+      "image": "/images/games/dave-the-diver.jpg",
+      "completionTime": "27,7 giờ",
+      "status": "completed",
+      "platform": "PC",
+      "achievements": "35",
+      "totalAchievements": "43",
+      "notes": "Game indie về lặn biển và quản lý nhà hàng sushi",
+      "rawgId": 894620
+    },
+    {
+      "id": 7,
+      "title": "Far Cry Primal",
+      "image": "/images/games/far-cry-primal.jpg",
+      "completionTime": "26,6 giờ",
+      "status": "completed",
+      "platform": "PC",
+      "achievements": "0",
+      "totalAchievements": "55",
+      "notes": "Far Cry trong thời kỳ đồ đá",
+      "rawgId": 19729
+    },
+    {
+      "id": 8,
+      "title": "It Takes Two",
+      "image": "/images/games/it-takes-two.jpg",
+      "completionTime": "32,5 giờ",
+      "status": "completed",
+      "platform": "PC",
+      "achievements": "13",
+      "totalAchievements": "20",
+      "notes": "Game co-op hay nhất 2021",
+      "rawgId": 455597
+    },
+    {
+      "id": 9,
+      "title": "Devil May Cry 5",
+      "image": "/images/games/dmc5.jpg",
+      "completionTime": "18,1 giờ",
+      "status": "completed",
+      "platform": "PC",
+      "achievements": "21",
+      "totalAchievements": "55",
+      "notes": "Hack and slash với combo điên rồ",
+      "rawgId": 58134
+    },
+    {
+      "id": 10,
+      "title": "Resident Evil 3",
+      "image": "/images/games/re3.jpg",
+      "completionTime": "16,3 giờ",
+      "status": "completed",
+      "platform": "PC",
+      "achievements": "32",
+      "totalAchievements": "32",
+      "notes": "Remake của Resident Evil 3: Nemesis",
+      "rawgId": 275362
+    },
+    {
+      "id": 101,
+      "title": "Final Fantasy VII Rebirth",
+      "image": "/images/games/ff7-rebirth.jpg",
+      "status": "playing",
+      "notes": "Đang ở Chapter 3, khám phá thế giới mở",
+      "platform": "PlayStation 5",
+      "releaseYear": 2024,
+      "rawgId": 494384
+    },
+    {
+      "id": 102,
+      "title": "Starfield",
+      "image": "/images/games/starfield.jpg",
+      "status": "abandoned",
+      "notes": "Quá nhiều lỗi và gameplay nhàm chán",
+      "platform": "PC",
+      "releaseYear": 2023,
+      "rawgId": 39988
+    },
+    {
+      "id": 103,
+      "title": "Silksong",
+      "image": "/images/games/silksong.jpg",
+      "status": "wishlist",
+      "notes": "Đang chờ ngày phát hành",
+      "platform": "PC",
+      "releaseYear": 2024,
+      "rawgId": 326243
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "title": "Baldur's Gate 3: Tuyệt phẩm RPG của năm",
+      "slug": "baldurs-gate-3",
+      "coverImage": "/images/reviews/baldurs-gate-3.jpg",
+      "rating": 9.5,
+      "date": "15/08/2023",
+      "tags": ["RPG", "Turn-based", "Fantasy", "D&D"],
+      "platform": "PC, PlayStation 5",
+      "developer": "Larian Studios",
+      "publisher": "Larian Studios",
+      "releaseYear": 2023,
+      "content": "<p>Baldur's Gate 3 là một tựa game nhập vai tuyệt vời, đưa người chơi vào một cuộc phiêu lưu hoành tráng trong thế giới Forgotten Realms của Dungeons & Dragons. Sau hơn 20 năm kể từ phần trước, Larian Studios đã mang đến một tác phẩm xứng đáng với di sản của series.</p><h3>Thế giới sống động</h3><p>Điều đầu tiên ấn tượng với tôi là thế giới game rộng lớn và chi tiết. Từ những khu rừng rậm rạp đến các thành phố nhộn nhịp, mọi địa điểm đều được thiết kế tỉ mỉ và đầy sức sống. NPCs có tính cách riêng, phản ứng với hành động của người chơi một cách hợp lý.</p><h3>Tự do lựa chọn</h3><p>Baldur's Gate 3 cho phép người chơi tự do lựa chọn cách tiếp cận mỗi nhiệm vụ. Bạn có thể giải quyết vấn đề bằng đối thoại, lẻn trộm, hoặc chiến đấu trực diện. Mỗi lựa chọn đều có hậu quả riêng, tạo nên cảm giác thực sự tác động đến thế giới game.</p><h3>Hệ thống chiến đấu</h3><p>Hệ thống chiến đấu turn-based dựa trên luật D&D 5e cung cấp trải nghiệm chiến thuật sâu sắc. Môi trường tương tác cao cho phép người chơi tận dụng địa hình, các yếu tố như lửa, nước, và độ cao để giành lợi thế. Mỗi trận chiến đều là một câu đố chiến thuật thú vị.</p><h3>Đồng đội và mối quan hệ</h3><p>Các nhân vật đồng hành có câu chuyện phong phú và phát triển nhân vật tốt. Mối quan hệ với họ phát triển tự nhiên dựa trên lựa chọn của người chơi, tạo nên những khoảnh khắc cảm động và đáng nhớ.</p><h3>Đồ họa và âm thanh</h3><p>Đồ họa của game ấn tượng với các hiệu ứng ánh sáng, texture chi tiết và animation mượt mà. Âm nhạc và lồng tiếng chất lượng cao góp phần tạo nên bầu không khí hùng tráng của thế giới fantasy.</p>",
+      "pros": [
+        "Tự do lựa chọn và hậu quả có ý nghĩa",
+        "Hệ thống chiến đấu chiến thuật sâu sắc",
+        "Câu chuyện và nhân vật phát triển tốt",
+        "Đồ họa và âm thanh xuất sắc",
+        "Tái chơi cao với nhiều lựa chọn khác nhau"
+      ],
+      "cons": [
+        "Một số bug nhỏ trong giai đoạn đầu",
+        "Loading time đôi khi hơi lâu",
+        "Độ khó không đồng đều ở một số đoạn"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Hollow Knight: Kiệt tác Metroidvania đầy mê hoặc",
+      "slug": "hollow-knight",
+      "coverImage": "/images/reviews/hollow-knight.jpg",
+      "rating": 9.0,
+      "date": "20/03/2022",
+      "tags": ["Metroidvania", "Indie", "Souls-like", "2D"],
+      "platform": "PC, Nintendo Switch, PlayStation 4, Xbox One",
+      "developer": "Team Cherry",
+      "publisher": "Team Cherry",
+      "releaseYear": 2017,
+      "content": "<p>Hollow Knight là một kiệt tác trong thể loại Metroidvania, với thế giới ngầm Hallownest rộng lớn và bí ẩn. Game do studio indie Team Cherry phát triển đã tạo nên tiêu chuẩn mới cho thể loại này.</p><h3>Thế giới Hallownest</h3><p>Hallownest là một vương quốc côn trùng sụp đổ, với nhiều khu vực đa dạng từ thành phố mưa đến rừng rậm và hang động sâu thẳm. Mỗi khu vực có phong cách nghệ thuật và âm nhạc riêng, tạo nên bầu không khí độc đáo.</p><h3>Gameplay chặt chẽ</h3><p>Điều khiển nhân vật trong Hollow Knight rất mượt mà và chính xác. Hệ thống chiến đấu đơn giản nhưng sâu sắc, với nhiều kỹ năng và nâng cấp mở khóa theo tiến trình game. Boss fights là điểm nhấn với thiết kế độc đáo và thử thách.</p><h3>Câu chuyện kể qua môi trường</h3><p>Hollow Knight kể câu chuyện chủ yếu qua môi trường và gợi ý, thay vì cutscenes dài. Người chơi phải tự khám phá và ghép nối các mảnh lịch sử của Hallownest, tạo cảm giác thỏa mãn khi hiểu được bí ẩn của thế giới game.</p><h3>Âm nhạc và nghệ thuật</h3><p>Phong cách nghệ thuật vẽ tay đẹp mắt với bảng màu tối tạo nên bầu không khí u ám nhưng quyến rũ. Soundtrack của Christopher Larkin là một kiệt tác, với những bản nhạc gợi cảm xúc phù hợp với từng khu vực.</p>",
+      "pros": [
+        "Thế giới rộng lớn với nhiều bí mật để khám phá",
+        "Gameplay chặt chẽ và thỏa mãn",
+        "Thiết kế boss fights xuất sắc",
+        "Nghệ thuật và âm nhạc tuyệt vời",
+        "Giá trị tái chơi cao với nhiều ending"
+      ],
+      "cons": [
+        "Một số khu vực khó định hướng",
+        "Độ khó có thể làm nản lòng người chơi mới",
+        "Hệ thống fast travel hạn chế ở giai đoạn đầu"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Red Dead Redemption 2: Cuộc phiêu lưu không thể quên",
+      "slug": "red-dead-redemption-2",
+      "coverImage": "/images/reviews/rdr2.jpg",
+      "rating": 9.5,
+      "date": "15/05/2023",
+      "tags": ["Open World", "Western", "Action-Adventure"],
+      "content": "Red Dead Redemption 2 là một tuyệt tác của Rockstar Games...",
+      "platform": "PC, PlayStation 4, Xbox One",
+      "developer": "Rockstar Games",
+      "publisher": "Rockstar Games",
+      "releaseYear": 2018,
+      "pros": [
+        "Thế giới mở sống động và chi tiết",
+        "Cốt truyện cảm động và sâu sắc",
+        "Nhân vật được xây dựng tốt"
+      ],
+      "cons": [
+        "Điều khiển đôi khi hơi cứng",
+        "Một số nhiệm vụ hơi lặp lại"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "God of War: Hành trình của cha con Kratos",
+      "slug": "god-of-war",
+      "coverImage": "/images/reviews/god-of-war.jpg",
+      "rating": 9.0,
+      "date": "20/06/2023",
+      "tags": ["Action", "Adventure", "Norse Mythology"],
+      "content": "God of War là một cuộc phiêu lưu đầy cảm xúc của Kratos và con trai...",
+      "platform": "PC, PlayStation 4",
+      "developer": "Santa Monica Studio",
+      "publisher": "Sony Interactive Entertainment",
+      "releaseYear": 2018,
+      "pros": [
+        "Cốt truyện cha con cảm động",
+        "Hệ thống chiến đấu thỏa mãn",
+        "Đồ họa tuyệt đẹp"
+      ],
+      "cons": [
+        "Ít loại boss đa dạng",
+        "Camera đôi khi gây khó chịu"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "PUBG: BATTLEGROUNDS - Trải nghiệm Battle Royale đỉnh cao",
+      "slug": "pubg-battlegrounds",
+      "coverImage": "/images/reviews/pubg.jpg",
+      "rating": 8.0,
+      "date": "10/04/2023",
+      "tags": ["Battle Royale", "Shooter", "Multiplayer"],
+      "content": "PUBG là một trong những game Battle Royale đầu tiên và phổ biến nhất...",
+      "platform": "PC, PlayStation, Xbox, Mobile",
+      "developer": "PUBG Studios",
+      "publisher": "Krafton",
+      "releaseYear": 2017,
+      "pros": [
+        "Gameplay căng thẳng và hấp dẫn",
+        "Bản đồ đa dạng",
+        "Hệ thống vũ khí thực tế"
+      ],
+      "cons": [
+        "Đồ họa không quá nổi bật",
+        "Vấn đề về hiệu suất và lỗi"
+      ]
+    }
+  ]
+}
